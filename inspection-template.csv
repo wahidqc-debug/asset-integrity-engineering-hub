@@ -1,0 +1,4 @@
+EquipmentID,EquipmentType,LastInspection,NextDue,Method
+DEMO-V01,Pressure vessel,2024-01-01,2026-01-01,UT
+DEMO-P01,Piping,2025-01-01,2026-12-15,UT
+DEMO-E01,Heat exchanger,2025-06-01,2027-06-01,Visual
